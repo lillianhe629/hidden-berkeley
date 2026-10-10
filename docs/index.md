@@ -1,11 +1,11 @@
 ---
 layout: default
-title:  Doe Library
+title:  Berkeley's Hidden Gems
 ---
 
-# Doe Library
+# Berkeley's Hidden Gems
 
-Doe Library offers study spaces and research help.
+Discover the hidden gems of UC Berkeley! From quiet study spots and creative spaces to academic resources and student support services, explore lesser-known places and opportunities that can make your Berkeley experience even better.
 
 <!-- Edit the heading and introduction above. The supplied loop below displays each row of the CSV. -->
 {% for resource in site.data.locations %}
