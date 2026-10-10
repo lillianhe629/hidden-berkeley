@@ -4,6 +4,18 @@ Create your own public website from this starter, then use a Jupyter notebook to
 
 **Start here:** on the [HW2 template repository](https://github.com/macss-berkeley/hw2-hidden-berkeley-template), choose **Use this template → Create a new repository**. Name your copy `hidden-berkeley` and make it public. Clone your copy with GitHub Desktop and open its folder in VS Code. Follow [hw2_hidden_berkeley.ipynb](hw2_hidden_berkeley.ipynb).
 
+## Python environment
+
+From this repository's folder, create and install the project environment:
+
+```sh
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install -r requirements.txt
+```
+
+In VS Code, open `hw2_hidden_berkeley.ipynb`, choose **Select Kernel**, and select the Python interpreter in this repository's `.venv` folder. On macOS/Linux, it is `.venv/bin/python`. If you use a different machine later, repeat the setup commands there.
+
 ## What is in this repository?
 
 | File | What it does |

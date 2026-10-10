@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Hidden Berkeley
+title:  Doe Library
 ---
 
-# Hidden Berkeley
+# Doe Library
 
-A starting guide to Berkeley places and services. Check each resource's official webpage for current access details.
+Doe Library offers study spaces and research help.
 
 <!-- Edit the heading and introduction above. The supplied loop below displays each row of the CSV. -->
 {% for resource in site.data.locations %}
