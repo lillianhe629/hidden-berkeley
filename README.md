@@ -28,9 +28,28 @@ In VS Code, open `hw2_hidden_berkeley.ipynb`, choose **Select Kernel**, and sele
 GitHub Pages builds the website from `main` and `/docs`. After you push a changed CSV, GitHub rebuilds the page using the new data. Jupyter only edits and saves the data; it does not build the website. The `_data` folder name is required by the website builder.
 
 ## Purpose and sources
+Beyond the Bear is a guide designed for UC Berkeley students, especially those who are new to campus or want to discover useful resources beyond the classroom.
 
-Replace this paragraph with two or three sentences about your guide's audience and purpose. The first eight resources were supplied by COMPSS 211A. Name the resource you added and link to the official webpage you used to check it.
+The guide introduces study spaces, research facilities, creative spaces, and student support services across Berkeley.
+
+The original dataset contains eight campus resources. We added a ninth resource, the Student Learning Center (HB09), which provides academic support and tutoring services.
+
 
 ## Website checks
 
-After publishing your changes, replace this paragraph with the live website link, the existing entry you improved, the new resource you added, and what you checked on the website. Say whether the displayed values match your CSV and whether the official links open the intended pages.
+I reviewed official UC Berkeley webpages to verify resource information and improve access notes.
+
+For the Jacobs Institute Makerspace (HB04), I reviewed the official website to  identify makerspace access requirements, including the Maker Pass and safety training.
+
+For the Student Learning Center (HB09), I checked the official Economics Drop-in Tutoring webpage and confirmed:
+
+- Drop-in tutoring does not require advance registration.
+- Sessions take place on the first floor of the Student Center.
+- Students should check the weekly schedule before visiting.
+- Visitors must complete a sign-in form upon arrival.
+
+I also confirmed that the Student Learning Center was not included in the original eight resources.
+
+The guide retains all eight original resources and adds the Student Learning Center as the ninth entry.
+
+Access information may change, so users should refer to the official websites before visiting.
